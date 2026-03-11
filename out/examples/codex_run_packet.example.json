@@ -1,0 +1,12 @@
+{
+  "run_id": "crun_2026-03-11_demo",
+  "workspace_root": "/Users/darkfire/.openclaw/workspace",
+  "task": "In one short paragraph, inspect the current workspace and report the working directory and the names of the top-level files/directories. Do not modify files.",
+  "approval_tier": "T1_workspace",
+  "artifacts": {
+    "dir": "/Users/darkfire/.openclaw/workspace/out/codex_runs/crun_2026-03-11_demo"
+  },
+  "timeouts": {
+    "wall_sec": 120
+  }
+}
